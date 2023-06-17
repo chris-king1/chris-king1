@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently documenting and improving the user experiences in storage monitoring applications.
-- 🌱 I’m studying advanced techniques for information architecture, UX design thinking, and writing / editing.
-- 👯 I’m looking to collaborate on improving the information experiences in complex, software applications.
+- 🔭 I’m currently documenting and enhancing the user experiences in on-prem and off-prem (SaaS) storage monitoring applications.
+- 🌱 I’m studying advanced techniques for information architecture, UX design thinking, technical writing, and editing.
 - 🤔 I’m looking for help with finding a role that aligns with my knowledge, experience, and passion for technical content.
 - 💬 Ask me about my experiences working on large and small technical writing teams and projects.
 - 📫 How to reach me: ck9252@gmail.com.
