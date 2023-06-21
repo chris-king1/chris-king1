@@ -5,4 +5,6 @@
 - 🤔 I’m looking for help with finding a role that aligns with my knowledge, experience, and passion for technical content.
 - 💬 Ask me about my experiences working on large and small technical writing teams and projects.
 - 📫 How to reach me: ck9252@gmail.com.
-- ⚡ Fun fact: Moving from Chicago to Austin, I never realized how great it could be eating outside at a restaurant on a warm day in January.
+- ⚡ Fun fact: After moving from Chicago to Austin, I realized how great it could be eating outside at a restaurant on a warm day in January.
+
+For more information about me, check out https://chris-king1.github.io/resume/.
