@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently documenting and enhancing the user experiences in on-prem and off-prem (SaaS) storage monitoring applications.
+- 🔭 I’m currently looking for a new technical writing opportunity. In my most recent project, I documented and enhanced the user experiences in on-prem and off-prem (SaaS) storage monitoring applications.
 - 🌱 I’m studying advanced techniques for information architecture, UX design thinking, technical writing, and editing.
 - 🤔 I’m looking for help with finding a role that aligns with my knowledge, experience, and passion for technical content.
 - 💬 Ask me about my experiences working on large and small technical writing teams and projects.
